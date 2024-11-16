@@ -38,7 +38,7 @@ int main(int argc, char* argv[]) {
         close(file1);
         close(file2);
     }
-    else printf("Program urochumiony z nieprawidlowymi parametrami. Poadaj dwa parametry: pliku wjsciowegi i pliku docelowego");
+    else printf("Program uruchomiony z nieprawidlowymi parametrami. Poadaj dwa parametry: pliku wjsciowegi i pliku docelowego");
   
   return 0;
 } 

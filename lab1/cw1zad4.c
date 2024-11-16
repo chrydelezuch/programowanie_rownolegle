@@ -39,7 +39,7 @@ int main(int argc, char* argv[]) {
         close(file1);
         close(file2);
     }
-    else printf("Program urochumiony z nieprawidlowymi parametrami. Poadaj dwa parametry: pliku wjsciowegi oraz liczbe bajtow do przekopiowania");
+    else printf("Program uruchomiony z nieprawidlowymi parametrami. Poadaj dwa parametry: pliku wjsciowegi oraz liczbe bajtow do przekopiowania");
   
   return 0;
 } 
